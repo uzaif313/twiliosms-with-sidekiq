@@ -1,24 +1,6 @@
-# README
+## Twilio Sms jobs with sidekiq
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Twilio](https://s3.amazonaws.com/com.twilio.prod.cms-assets/Twilio_logo_red.png
+)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Sidekiq](http://sidekiq.org/assets/kicker.svg)

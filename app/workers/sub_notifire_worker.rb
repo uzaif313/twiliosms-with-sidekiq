@@ -5,7 +5,7 @@ class SubNotifireWorker
   # recurrence { weekly.day(:monday) }
   recurrence { minutely(1) }
 
-  def perform(name,count)
+  def perform
   	puts "===#{name}===#{count}==="
 		@client = Twilio::REST::Client.new
 		  ['','','','',''].each do |no|
